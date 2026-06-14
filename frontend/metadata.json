@@ -1,0 +1,5 @@
+{
+  "name": "TestPilot AI",
+  "description": "AI-powered testing platform for QA Engineers, SDETs, and Security Analysts. Generate test cases, run automated tests, and detect bugs in seconds.",
+  "requestFramePermissions": []
+}
