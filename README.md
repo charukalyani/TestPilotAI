@@ -82,7 +82,7 @@ The goal of TestPilotAI is to become a unified testing platform that combines AP
 
 ---
 
-## Project Structure
+git status## Project Structure
 
 ```plaintext
 TestPilotAI
@@ -167,15 +167,15 @@ MONGO_URI=your_mongodb_connection_string
 
 ### Landing Page
 
-![alt text](image.png)
+![Landing Page](docs/screenshots/landing-page.png)
 
 ### Dashboard
 
-![alt text](image-1.png)
+![Dashboard](docs/screenshots/dashboard.png)
 
 ### API Testing
 
-![alt text](image-2.png)
+![API Testing](docs/screenshots/api-testing.png)
 
 ---
 
